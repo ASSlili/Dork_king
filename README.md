@@ -1,4 +1,4 @@
-# 🔎 Google Dorking Visualizer 渗透测试谷歌语法工具
+# 🔎 Google 渗透测试谷歌语法工具
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Framework-FF4B4B)
